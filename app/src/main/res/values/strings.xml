@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExemplosAula</string>
+    <string name="men_exemplos">Menú Exemplos</string>
+    <string name="navegador">Navegador</string>
+    <string name="mapa">Mapa</string>
+    <string name="camera">Camera</string>
+    <string name="abrir_camera">Abrir Camera</string>
+</resources>
